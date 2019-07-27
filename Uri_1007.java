@@ -16,7 +16,7 @@ public class Uri_1007 {
 		DIFERENCA = (A * B - C * D);
 		
 		System.out.println("DIFERENCA = "+DIFERENCA);
-        System.out.println();
+
 
 	}
 
