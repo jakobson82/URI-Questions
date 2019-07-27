@@ -14,7 +14,7 @@ public class Uri_1008 {
 		a = sc.nextInt();
 		b = sc.nextInt();
 		c = sc.nextFloat();
-		
+		//Calculo de salario
 		double SALARY = (b*c);
 		
 		System.out.println("NUMBER = "+a);
