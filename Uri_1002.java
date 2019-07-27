@@ -11,6 +11,7 @@ public class Uri_1002 {
 		
 		double pi = 3.14159;
 		double a; 
+		//calculo da area
 		a= pi * Math.pow(r, 2);
 		
 		System.out.println("A=%.4f"+a);
