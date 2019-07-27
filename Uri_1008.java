@@ -18,7 +18,7 @@ public class Uri_1008 {
 		double SALARY = (b*c);
 		
 		System.out.println("NUMBER = "+a);
-		System.out.println("SALARY = U$ %0.2f "+SALARY);
+		System.out.println("SALARY = U$ %0.2f%"+SALARY);
 
 	}
 
