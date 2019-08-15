@@ -4,11 +4,7 @@ public class Uri_1134 {
 
 	public static void main(String[] args) {
 
-
-
 		Scanner sc = new Scanner(System.in);
-
-		
 
 		int alcool = 0;
 
@@ -16,18 +12,13 @@ public class Uri_1134 {
 
 		int diesel = 0;
 
-		
-
 		int tipo = sc.nextInt();
-
-		
 
 		while (tipo != 4) {
 
 			if (tipo == 1) {
 
 				alcool = alcool + 1;
-
 			}
 
 			else if (tipo == 2) {
@@ -42,13 +33,9 @@ public class Uri_1134 {
 
 			}
 
-			
-
 			tipo = sc.nextInt();
 
 		}
-
-
 
 		System.out.println("MUITO OBRIGADO");
 
@@ -57,8 +44,6 @@ public class Uri_1134 {
 		System.out.println("Gasolina: " + gasolina);
 
 		System.out.println("Diesel: " + diesel);
-
-		
 
 		sc.close();
 
